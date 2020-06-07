@@ -23,5 +23,6 @@ npm start
 ```
 ## Credits
 - I have made this tracker with the help of [JavaScript Mastery](https://www.youtube.com/watch?v=khJlrj3Y6Ls). If anyone want to know how to build such project from scratch go chechout his channel. 
+- API used: (https://covid19.mathdro.id/api)
 - Image used for title: [Title](https://pixabay.com/illustrations/coronavirus-virus-china-outbreak-4817431/)
 - Icon: (https://pixabay.com/illustrations/coronavirus-virus-china-outbreak-4817431/)
